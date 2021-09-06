@@ -1,0 +1,28 @@
+{
+  "name": "gg-vue-monaco-editor",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gurkangul/gg-vue-monaco-editor",
+  "repository": "https://github.com/gurkangul/gg-vue-monaco-editor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.27.0",
+    "monaco-editor-webpack-plugin": "^4.1.2"
+  },
+  "devDependencies": {
+    "vue": "^2.6.11",
+    "monaco-editor-webpack-plugin": "^4.1.2"
+  },
+  "keywords": [
+    "Vue",
+    "gg",
+    "vue-monaco-editor",
+    "monaco-editor",
+    "monaco",
+    "monaco-editor-vue",
+    "vscode editor"
+  ],
+  "author": "gurkangul | Gürkan Gül gurkangul5@gmail.com",
+  "license": "MIT"
+}
