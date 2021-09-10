@@ -2,6 +2,8 @@
 
 > [Monaco Editor](https://github.com/Microsoft/monaco-editor) for Vue.
 
+Demo: https://happy-dubinsky-0b4f38.netlify.app/
+
 ## Installation
 
 ```bash
