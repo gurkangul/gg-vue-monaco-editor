@@ -47,7 +47,7 @@ export default {
       options:{
             value: `function test(){
     console.log("test")
-}`,
+   }`,
           language: "javascript",
           fontSize: "13px",
           theme: "vs-dark",
